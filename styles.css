@@ -5,16 +5,31 @@ body {
 }
 
 img {
- height:100px;   
+ height:200px;   
+ border:8px double #54a6ff;
 }
 
 .images{
- margin-top:10px;   
+ margin-top:20px;   
 }
 input{
     width:130px;
+     border:8px double #54a6ff;
 }
+
+
+button{
+    border:8px double #ebffe5;
+    
+}
+
+
 h1{
-    border:5px solid black;
+    border:8px double #2dffd1;
+    
+}
+
+p{
+    border:8px double #d8ff00;
     
 }
